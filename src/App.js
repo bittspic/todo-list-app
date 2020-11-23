@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="App">
-      <Typography variant="h2">Todo list</Typography>
+      <Typography variant="h2">To-do list</Typography>
       <TodoForm addTodo={addTodo} />
       <TodoList
         todos={todos}
