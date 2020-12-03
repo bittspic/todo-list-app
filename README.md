@@ -5,3 +5,4 @@ This is a simple to-do list application with ReactJS. Link demo: https://bittspi
 - Material UI.
 - Local storage.
 - uuid.
+- Hosted by GitHub.
