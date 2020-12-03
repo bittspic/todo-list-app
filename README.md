@@ -1,6 +1,7 @@
-# A simple to-do list app with ReactJS
-Techniques:
-- React hooks
-- Material UI
-- Local storage
-- uuid
+# A to-do list application
+This is a simple to-do list application with ReactJS. Link demo: https://bittspic.github.io/todo-list-app/
+## Build with
+- ReactJS.
+- Material UI.
+- Local storage.
+- uuid.
